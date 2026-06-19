@@ -99,24 +99,24 @@ python addressbook.py
 ### Add Contact
 
 ```text
-Enter your name: John
-Enter your phone_no: 9876543210
-Enter your email: john@example.com
-Enter your address: New York
+Enter your name: fathima
+Enter your phone_no: 123456789
+Enter your email: fathima@gmail.com
+Enter your address: calicut
 Contact added successfully
 ```
 
 ### Search Contact
 
 ```text
-Enter your name to search: John
-John - 9876543210 - john@example.com - New York
+Enter your name to search: fathima
+fathima - 123456789 - fathima@gmail.com - calicut
 ```
 
 ### Delete Contact
 
 ```text
-Enter your name to delete: John
+Enter your name to delete: fathima
 Contact deleted successfully
 ```
 
