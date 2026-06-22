@@ -71,9 +71,9 @@ Update the MySQL connection details in the Python script:
 
 ```python
 mydb = mysql.connector.connect(
-    host="127.0.0.1",
-    user="root",
-    password="your_password",
+    host="host",
+    user="user",
+    password="pass",
     database="ADDRESSBOOK"
 )
 ```
